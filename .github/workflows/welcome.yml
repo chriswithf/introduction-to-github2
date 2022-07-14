@@ -1,0 +1,4 @@
+name: Post celcome comment
+on: 
+  pull request:
+     types:[opened]
